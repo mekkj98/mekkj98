@@ -48,6 +48,7 @@
       <img alt="Laravel" src="https://img.shields.io/badge/Laravel-ff2d20?style=flat-square&logo=Laravel&logoColor=white" />
       <img alt="Django" src="https://img.shields.io/badge/Django-0C3C26?style=flat-square&logo=Django&logoColor=white" />
       <img alt="Flask" src="https://img.shields.io/badge/Flask-ddd?style=flat-square&logo=Flask&logoColor=black" />
+      <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-23282d?style=flat-square&logo=wordpress&logoColor=black" />
     </td>
   </tr>
   <tr>
@@ -66,7 +67,7 @@
       <img alt="Linux" src="https://img.shields.io/badge/-Linux-185886?style=flat-square&logo=linux&logoColor=white" />
       <img alt="Manjaro" src="https://img.shields.io/badge/-Linux-185886?style=flat-square&logo=manjaro&logoColor=white" />
       <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-      <img alt="VsCode" src="https://img.shields.io/badge/-VsCode-185886?style=flat-square&logo=VsCode&logoColor=white" />
+      <img alt="VsCode" src="https://img.shields.io/badge/VsCode-0066B8?style=flat-square&logo=visual-studio-code&logoColor=white" />
     </td>
   </tr>
 </table>
