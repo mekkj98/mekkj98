@@ -4,13 +4,19 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-  <li><span>:school:</span> &nbsp; I’m a recent computer science graduate.</li>
-  <li><span>:books:</span> &nbsp;Learning about <strong>React</strong>, <strong>DSA</strong>, <strong>serverless architectures</strong>, and a bit of <strong>Cloud</strong>.</li>
-  <li><span>:octocat:</span> &nbsp;Most of my projects are available on <a href="https://github.com/mekkj98">Github</a>.</li>
-  <li><span>:speech_balloon:</span> &nbsp;Ping me about <strong>node(react, koa, express), php(laravel), python(django), web developement, and other stuff</strong>.</li>
-  <li></span>:computer:</span> &nbsp;Enviroment i live in : <strong>Arch Linux / xfce / 127.0.0.1 / Oh My Zsh / VS Code</strong></li>
-  <li><span>:memo:</span> &nbsp;Check out my <a href="https://mekkj98.github.io/assets/docs/Resume.pdf">resume</a>.</li>
-  <li>🎉<span>:joy:</span> &nbsp;Fun Fact : coffee + smashing buttons = magic :bulb:</li>
+  :school: &nbsp; I’m a recent computer science graduate.
+
+  :books: &nbsp;Learning about <strong>React</strong>, <strong>DSA</strong>, <strong>serverless architectures</strong>, and a bit of <strong>Cloud</strong>.
+
+  :octocat: &nbsp;Most of my projects are available on <a href="https://github.com/mekkj98">Github</a>.
+
+  :speech_balloon: &nbsp;Ping me about <strong>node(react, koa, express), php(laravel), python(django), web developement, and other stuff</strong>.
+  
+  :computer: &nbsp;Enviroment i live in : <strong>Arch Linux / xfce / 127.0.0.1 / Oh My Zsh / VS Code</strong>
+
+  :memo: &nbsp;Check out my <a href="https://mekkj98.github.io/assets/docs/Resume.pdf">resume</a>.</li>
+  <li>:joy: &nbsp;Fun Fact : coffee + smashing buttons = magic code
+  
 </ul>
 
 
