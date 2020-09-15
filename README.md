@@ -7,6 +7,9 @@
   <a href="https://github.com/mekkj98" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a> 
+  <a href="https://mekkj98.github.io" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ff9933?&style=for-the-badge&logo=Google-chrome&logoColor=white" />
+  </a>
   <a href="https://twitter.com/mekkj98" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
@@ -17,9 +20,11 @@
     <img alt="InstaGram" src="https://img.shields.io/badge/instagram-8a3ab9?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://upwork.com/freelancers/~0194445b88fc6163c9" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/upwork-32cd32?&style=for-the-badge&logo=upwork&logoColor=white" />
+    <img alt="Upwork" src="https://img.shields.io/badge/upwork-32cd32?&style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
 </p>
+
+<h3></h3>
 
 <h3>Tools I use to code.</h3>
 <table>
