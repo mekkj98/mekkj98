@@ -2,7 +2,7 @@
 <p>Welcome to my GitHub profile!</p>
 <p>I'm <a href="https://mekkj98.github.io">Keshav</a>, a <strong>software developer</strong> with broad knowledge in full-stack web development. I enjoy interacting with new technologies and always look forward to learning new skills. I'm a spiritual fast learner and inquisitive person.</p>
 
-<h2>⚡️ A Few Quick Facts</h2>
+<h2><sup⚡️</sup> A Few Quick Facts</h2>
 <ul>
   <li>:school: &nbsp; I’m a recent computer science graduate.</li>
   <li>:books: &nbsp;Learning about <strong>React</strong>, <strong>DSA</strong>, <strong>serverless architectures</strong>, and a bit of <strong>Cloud</strong>.</li>
