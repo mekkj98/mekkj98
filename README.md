@@ -16,24 +16,35 @@
   </a>
 </p>
 <h3>Things I code with</h3>
-<p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/-CSS3-E34F26?style=flat-square&logo=CSS3&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-E34F26?style=flat-square&logo=Javascript&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=white" />
-</p>
-
-<p>
-  <img alt="C++" src="https://img.shields.io/badge/C++-0077cc?style=flat-square&logo=C&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-4F5B93?style=flat-square&logo=PHP&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-2b5b84?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-ff2d20?style=flat-square&logo=Laravel&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-0C3C26?style=flat-square&logo=Django&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-ddd?style=flat-square&logo=Flask&logoColor=black" />
-</p>
+<table>
+  <tr>
+    <th>Area</th>
+    <th>Stacks</th>
+  </tr>
+  <tr>
+    <td>Front End</td>
+    <td>
+      <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img alt="css3" src="https://img.shields.io/badge/-CSS3-E34F26?style=flat-square&logo=CSS3&logoColor=white" />
+      <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-E34F26?style=flat-square&logo=Javascript&logoColor=white" />
+      <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+      <img alt="Sass" src="https://img.shields.io/badge/-Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
+      <img alt="React" src="https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td>Back End</td>
+    <td>
+      <img alt="C++" src="https://img.shields.io/badge/C++-0077cc?style=flat-square&logo=C&logoColor=white" />
+      <img alt="PHP" src="https://img.shields.io/badge/PHP-4F5B93?style=flat-square&logo=PHP&logoColor=white" />
+      <img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+      <img alt="Python" src="https://img.shields.io/badge/Python-2b5b84?style=flat-square&logo=Python&logoColor=white" />
+      <img alt="Laravel" src="https://img.shields.io/badge/Laravel-ff2d20?style=flat-square&logo=Laravel&logoColor=white" />
+      <img alt="Django" src="https://img.shields.io/badge/Django-0C3C26?style=flat-square&logo=Django&logoColor=white" />
+      <img alt="Flask" src="https://img.shields.io/badge/Flask-ddd?style=flat-square&logo=Flask&logoColor=black" />
+    </td>
+  </tr>
+</table>
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Sql" src="https://img.shields.io/badge/SQL-E34F26?style=flat-square&logo=Mysql&logoColor=white" />
