@@ -7,7 +7,7 @@
   <li>:school: &nbsp; I’m a recent computer science graduate.</li>
   <li>:books: &nbsp;Learning about <strong>React</strong>, <strong>DSA</strong>, <strong>serverless architectures</strong>, and a bit of <strong>Cloud</strong>.</li>
   <li>:octocat: &nbsp;Most of my projects are available on <a href="https://github.com/mekkj98">Github</a>.</li>
-  <li>:speech_balloon: &nbsp;Ping me about <strong>node(react, koa, express), php(laravel), python(django), web developement, and other stuff</strong>.</li>
+  <li>:speech_balloon: &nbsp;Ping me about <strong>node(react, koa, express), php(laravel), python(django), and other stuff</strong>.</li>
   <li>:computer: &nbsp;Enviroment i live in : <strong>Arch Linux / xfce / 127.0.0.1 / Oh My Zsh / VS Code</strong></li>
   <li>:memo: &nbsp;Check out my <a href="https://mekkj98.github.io/assets/docs/Resume.pdf">resume</a>.</li>
   <li>:tada: &nbsp;Fun Fact : coffee + smashing buttons = magic code</li>
