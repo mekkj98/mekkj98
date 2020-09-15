@@ -1,4 +1,4 @@
-<h2>नमस्ते (nʌməsteɪ) :pray: , Nice to see you.</h2>
+<h2>नमस्ते (nʌməsteɪ) <sup>:pray:</sup> , Nice to see you.</h2>
 
 <p>Welcome to my GitHub profile!</p>
 <p>I'm <a href="https://mekkj98.github.io">Keshav</a>, a <strong>software developer</strong> with broad knowledge in full-stack web development. I enjoy interacting with new technologies and always look forward to learning new skills. I'm a spiritual fast learner and inquisitive person.</p>
