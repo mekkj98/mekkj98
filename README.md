@@ -10,8 +10,14 @@
   <a href="https://twitter.com/mekkj98" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/mekkj98" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/mekkj98" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/mekkj98" target="_blank">
+    <img alt="InstaGram" src="https://img.shields.io/badge/instagram-8a3ab9?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://upwork.com/freelancers/~0194445b88fc6163c9" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/upwork-32cd32?&style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
 </p>
 
@@ -25,8 +31,8 @@
     <td>Front End</td>
     <td>
       <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img alt="css3" src="https://img.shields.io/badge/-CSS3-E34F26?style=flat-square&logo=CSS3&logoColor=white" />
-      <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-E34F26?style=flat-square&logo=Javascript&logoColor=white" />
+      <img alt="css3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=CSS3&logoColor=white"/>
+      <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-square&logo=Javascript&logoColor=white"/>      
       <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
       <img alt="Sass" src="https://img.shields.io/badge/-Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
       <img alt="React" src="https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=white" />
@@ -56,9 +62,11 @@
     <td>Other Tools</td>
     <td>
       <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-      <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img alt="git" src="https://img.shields.io/badge/-Linux-185886?style=flat-square&logo=linux&logoColor=white" />
-      <img alt="git" src="https://img.shields.io/badge/-VsCode-185886?style=flat-square&logo=VsCode&logoColor=white" />
+      <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img alt="Linux" src="https://img.shields.io/badge/-Linux-185886?style=flat-square&logo=linux&logoColor=white" />
+      <img alt="Manjaro" src="https://img.shields.io/badge/-Linux-185886?style=flat-square&logo=manjaro&logoColor=white" />
+      <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+      <img alt="VsCode" src="https://img.shields.io/badge/-VsCode-185886?style=flat-square&logo=VsCode&logoColor=white" />
     </td>
   </tr>
 </table>
