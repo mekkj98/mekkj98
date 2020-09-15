@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<h3>Tools I use In Programming.</h3>
+<h3>Tools I use to code.</h3>
 <table>
   <tr>
     <th>Area</th>
