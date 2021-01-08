@@ -88,6 +88,3 @@
     </td>
   </tr>
 </table>
-
-<h3>GitHub Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=mekkj98&amp;show_icons=true" alt="GitHub Stats">
