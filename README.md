@@ -4,7 +4,7 @@
 
 <h2><sup>⚡️</sup> A Few Quick Facts</h2>
 <ul>
-  <li>:books: &nbsp;Learning about <strong>Rust</strong>, <strong>GO</strong>, <strong>Whatever else interests.</strong>.
+  <li>:books: &nbsp;Learning about <strong>Rust</strong>, <strong>GO</strong>, <strong>Whatever else interests</strong>.
   <li>:octocat: &nbsp;Most of my projects are available on <a href="https://github.com/mekkj98">Github</a>.</li>
   <li>:speech_balloon: &nbsp;Ping me about <strong>node(react, koa, express), php(laravel), python(django), and other stuff</strong>.</li>
   <li>:computer: &nbsp;Enviroment i live in : <strong>Arch Linux / xfce  / Oh My Zsh / VS Code</strong></li>
