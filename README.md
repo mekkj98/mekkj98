@@ -37,7 +37,7 @@
 
 <h3></h3>
 
-<h3>Tools I use to code.</h3>
+<!-- <h3>Tools I use to code.</h3>
 <table>
   <tr>
     <th>Area</th>
@@ -86,4 +86,4 @@
       <img alt="VsCode" src="https://img.shields.io/badge/VsCode-0066B8?style=flat-square&logo=visual-studio-code&logoColor=white" />
     </td>
   </tr>
-</table>
+</table> -->
