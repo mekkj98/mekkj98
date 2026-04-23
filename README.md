@@ -8,7 +8,6 @@
   <li>:octocat: &nbsp;Most of my projects are available on <a href="https://github.com/mekkj98">Github</a>.</li>
   <li>:speech_balloon: &nbsp;Ping me about <strong>Anything</strong>.</li>
   <li>:computer: &nbsp;Enviroment i live in : <strong>MacOS  / Oh My Zsh / NEOVIM / Ghostty</strong></li>
-  <li>:memo: &nbsp;Check out my <a href="https://mekkj98.github.io/assets/docs/Resume.pdf">resume</a>.</li>
 </ul>
 
 
