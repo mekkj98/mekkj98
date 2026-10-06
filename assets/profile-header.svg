@@ -1,21 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="330" viewBox="0 0 1080 330" role="img" aria-labelledby="title description">
-  <title id="title">Keshav Jha — Still asking why.</title>
-  <desc id="description">A quiet charcoal-and-amber personal cover. Open circles and a small point of light accompany the words: Still asking why. Software is one way I explore the answer.</desc>
-  <rect width="1080" height="330" rx="12" fill="#10110d"/>
-  <rect x="0.5" y="0.5" width="1079" height="329" rx="11.5" fill="none" stroke="#2b2d24"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="390" viewBox="0 0 1080 390" role="img" aria-labelledby="title description">
+  <title id="title">Keshav Jha — Curiosity. Clarity. Follow-through.</title>
+  <desc id="description">A charcoal-and-amber personal cover with a precise, open circular motif. Thoughtful about the problem. Accountable for the work.</desc>
+  <rect width="1080" height="390" rx="12" fill="#10110d"/>
+  <rect x="0.5" y="0.5" width="1079" height="389" rx="11.5" fill="none" stroke="#2b2d24"/>
   <path d="M 40 36 H 70" fill="none" stroke="#ffc247" stroke-width="2"/>
   <text x="84" y="42" fill="#d5d3ca" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" letter-spacing="2">KESHAV JHA</text>
-  <text x="36" y="165" fill="#f1efe6" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">Still asking <tspan fill="#ffc247">why.</tspan></text>
-  <text x="41" y="211" fill="#a6a79d" font-family="Arial, Helvetica, sans-serif" font-size="21">Software is one way I explore the answer.</text>
-  <g fill="none" stroke-width="1">
-    <path d="M 997 65 A 111 111 0 1 0 1026 185" stroke="#3b3e31"/>
-    <path d="M 965 96 A 77 77 0 1 0 992 179" stroke="#52513b"/>
-    <path d="M 944 126 A 43 43 0 1 0 958 174" stroke="#80714a"/>
-    <path d="M 920 153 L 1007 67" stroke="#ffc247" stroke-opacity="0.55"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" letter-spacing="-2.8">
+    <text x="36" y="153" fill="#f1efe6">Curiosity. Clarity.</text>
+    <text x="36" y="232" fill="#ffc247">Follow-through.</text>
   </g>
-  <circle cx="920" cy="153" r="4" fill="#ffc247"/>
-  <circle cx="1007" cy="67" r="3" fill="#10110d" stroke="#ffc247"/>
-  <path d="M 40 263 H 1040" fill="none" stroke="#2b2d24"/>
-  <text x="40" y="301" fill="#a6a79d" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="1.6">CURIOSITY / CRAFT / INTENTION</text>
-  <text x="1040" y="301" text-anchor="end" fill="#a6a79d" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="1">A PERSONAL NOTE</text>
+  <text x="41" y="284" fill="#a6a79d" font-family="Arial, Helvetica, sans-serif" font-size="20">Thoughtful about the problem. Accountable for the work.</text>
+  <g fill="none" stroke-width="1">
+    <path d="M 997 98 A 111 111 0 1 0 1026 218" stroke="#3b3e31"/>
+    <path d="M 965 129 A 77 77 0 1 0 992 212" stroke="#52513b"/>
+    <path d="M 944 159 A 43 43 0 1 0 958 207" stroke="#80714a"/>
+    <path d="M 920 186 L 1007 100" stroke="#ffc247" stroke-opacity="0.65"/>
+  </g>
+  <circle cx="920" cy="186" r="4" fill="#ffc247"/>
+  <circle cx="1007" cy="100" r="3" fill="#10110d" stroke="#ffc247"/>
+  <path d="M 40 323 H 1040" fill="none" stroke="#2b2d24"/>
+  <text x="40" y="361" fill="#a6a79d" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="1.6">PRODUCT-MINDED / PERSONALLY ACCOUNTABLE</text>
+  <text x="1040" y="361" text-anchor="end" fill="#a6a79d" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="1">KESHAVKJHA.COM</text>
 </svg>

@@ -1,37 +1,30 @@
 <a href="https://keshavkjha.com">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg">
-    <img src="./assets/profile-header.svg" width="100%" alt="Keshav Jha — Still asking why. Software is one way I explore the answer.">
+    <img src="./assets/profile-header.svg" width="100%" alt="Keshav Jha — Curiosity. Clarity. Follow-through. Thoughtful about the problem. Accountable for the work.">
   </picture>
 </a>
 
-# नमस्ते, I'm Keshav.
+# नमस्ते. I'm Keshav.
 
-I'm a software engineer based in **Pune, India**. Inquisitive by nature, spiritual at heart.
+I'm a **senior software engineer based in Pune, India**. I turn unclear ideas into clear decisions and dependable software.
 
-I'm drawn to the reason beneath a request, the small friction someone has learned to live with, and the moment a complicated thing finally makes sense.
+My instinct is to ask the question behind the request. My responsibility is to turn that understanding into action.
 
-Software gives that curiosity somewhere to go. I like moving between the human problem and the technical one—without losing sight of either.
+### How I show up
 
-### The questions I come back to
+- **I look for the real problem.** The first request is a starting point. I care about the person using the result and the constraint that actually matters.
+- **I make my thinking visible.** Clear reasoning, honest conversations, and trade-offs you can act on. Progress and risks should be visible while there's still time to respond.
+- **I take responsibility beyond the code.** I stay with the work across product decisions, implementation, and delivery. What I leave behind should be understandable—and easier to move forward.
 
-- *What actually matters here?*
-- *Can this be simpler without losing something important?*
-- *What haven't I understood yet?*
+### Beyond the work
 
-I want to stay a student, even as the work changes. Of technology, of people, and of my own assumptions.
-
-<details>
-  <summary>A few coordinates</summary>
-
-- **At the keyboard:** macOS, Neovim, Ghostty, Oh My Zsh.
-- **Still exploring:** Rust, and whatever else raises a good question.
-- **Always welcome:** A thoughtful conversation. It doesn't have to be about code.
-
-</details>
+Spirituality keeps me grounded; curiosity keeps me moving. I value reflection and thoughtful conversations, whether they're about technology, people, or something neither of us has figured out yet.
 
 ---
 
-This is a small introduction. The work, the decisions, and the longer story live in **[my portfolio →](https://keshavkjha.com)**.
+The work shows what this looks like in practice.
+
+**[Explore my portfolio →](https://keshavkjha.com)**
 
 [Email](mailto:hello@keshavkjha.com) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/mekkj98)
